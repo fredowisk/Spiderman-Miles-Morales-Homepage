@@ -120,6 +120,7 @@ p {
 
 .bg-loader > svg {
   max-width: 144px;
+  background: transparent;
 }
 
 .bg-video {
